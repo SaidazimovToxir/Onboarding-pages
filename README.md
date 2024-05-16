@@ -1,16 +1,11 @@
-# lesson_36
+## Assalomu alaykum Ustoz Video Telegram chatda videoni yuklab bo'lmadi Mb kotta bo'lib ketdi! ## 
 
-A new Flutter project.
+# Time app
+![image](https://github.com/SaidazimovToxir/Onboarding-pages/assets/107400871/02b32de7-30a3-4072-b467-cae5645731b4)
 
-## Getting Started
+# Todo app
+![image](https://github.com/SaidazimovToxir/Onboarding-pages/assets/107400871/c4302e15-c299-46c0-b300-75190346e086)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Temprature app
+![image](https://github.com/SaidazimovToxir/Onboarding-pages/assets/107400871/e843b38b-9f75-4742-b64b-54e6de289c02)
+![image](https://github.com/SaidazimovToxir/Onboarding-pages/assets/107400871/8cab4589-224c-4342-8234-c9b360524c59)
